@@ -7,9 +7,9 @@
 
 ## Built With
 - HTML
-- Javascript
+- JavaScript
 - VScode
-- Tailwind
+- Tailwind CSS
 - Webpack
 
 ## Live Demo
