@@ -2,7 +2,7 @@
 > This project is about a simple banking system where we can deposit, withdraw and see the recent status of money.
 
 
-# ScreenShots/GIF
+# ScreenShots
 ![](pic.png)
 
 ## Built With
@@ -22,7 +22,7 @@ git clone https://github.com/Tufahel/baper-bank.git using your terminal or comma
 - run code `.` to open it in vscode
 - run `npm install` in terminal
 - run `npm run build` in terminal
-- run `npm start` in terrminal
+- run `npm start` and, now you are ready to use this web app.
 
 ## Author
 
