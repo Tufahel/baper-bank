@@ -1,16 +1,16 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Title-Info
-> This project is about a ........
+> This project is about a simple banking system where we can deposit, withdraw and see the recent status of money.
 
 
 # ScreenShots/GIF
-
+![](pic.png)
 
 ## Built With
 - HTML
 - Javascript
 - VScode
+- Tailwind
+- Webpack
 
 ## Live Demo
 For the link to the live demo, [Click here]()
@@ -18,21 +18,19 @@ For the link to the live demo, [Click here]()
 ## Getting Started
 To get a local copy up and running you just need to follow the following steps;
 - Clone this repository with
-git clone https://github.com/Tufahel using your terminal or command line.
-- run code . to open it in vscode
+git clone https://github.com/Tufahel/baper-bank.git using your terminal or command line.
+- run code `.` to open it in vscode
+- run `npm install` in terminal
+- run `npm run build` in terminal
+- run `npm start` in terrminal
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Tufahel**
 
-- GitHub: [@](https://github.com)
-- Twitter: [@](https://twitter.com)
-- LinkedIn: [@](https://www.linkedin.com)
-
-👤 **Author2**
-
-- GitHub: [@](https://github.com)
-- LinkedIn: [@](https://bd.linkedin.com)
+- GitHub: [@Tufahel](https://github.com/Tufahel)
+- Twitter: [@Tufahel](https://twitter.com/TufahelAhmed)
+- LinkedIn: [Tufahel Ahmed](https://www.linkedin.com/in/tufahel-ahmed/)
 
 ## 🤝 Contributing
 
@@ -46,9 +44,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Programming Hero Team
 
 ## 📝 License
 
