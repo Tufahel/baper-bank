@@ -13,7 +13,7 @@
 - Webpack
 
 ## Live Demo
-For the link to the live demo, [Click here]()
+For the link to the live demo, [Click here](https://tufahel.github.io/baper-bank/)
 
 ## Getting Started
 To get a local copy up and running you just need to follow the following steps;
